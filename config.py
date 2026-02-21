@@ -24,7 +24,7 @@ RECORD_SECONDS = 6  # Duration to record after "Jarvis" wake word
 SAMPLE_RATE = 16000  # 16kHz for Whisper compatibility
 
 # --- Gemini ---
-GEMINI_MODEL = "gemini-1.5-flash"
+GEMINI_MODEL = "gemini-2.5-flash"
 SYSTEM_PROMPT = (
     "Você é um técnico Challenger de League of Legends focado em macro gaming "
     "e tomada de decisão rápida. Você receberá imagens da tela do jogador. "
